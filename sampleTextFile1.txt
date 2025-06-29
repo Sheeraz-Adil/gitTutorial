@@ -1,2 +1,3 @@
 This is sample text file, text is ok. file updating
 some code changes update
+update directly on remote repo
